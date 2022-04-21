@@ -1,0 +1,14 @@
+{
+  "name": "01-hello",
+  "version": "1.0.0",
+  "description": "hello electron",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "hello"
+  ],
+  "author": "CC",
+  "license": "MIT"
+}
