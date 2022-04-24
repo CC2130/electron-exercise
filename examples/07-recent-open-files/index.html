@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>你好 Electron</title>
+    <meta http-equiv="Content-Secrity-Policy" content="script-src 'self' 'unsafe-inline';" />
+  </head>
+  <body>
+    <h1>你好 Electron!</h1>
+    <p>
+      我们在使用 Node.js <span id="node-version"></span>,
+      Chromium <span id="chrome-version"></span>,
+      和 Electron <span id="electron-version"></span>.
+    </p>
+    <p></p>
+    <input type="input" id="input" value="Recent file"><button id="btn">提交</button>
+    <script src="renderer.js"></script>
+    <p></p>
+    <p id='info'>一些信息</p>
+  </body>
+</html>
