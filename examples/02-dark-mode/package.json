@@ -1,0 +1,14 @@
+{
+  "name": "02-dark-mode",
+  "version": "1.0.0",
+  "description": "ui switch mode",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "mode"
+  ],
+  "author": "CC",
+  "license": "MIT"
+}

@@ -1,0 +1,14 @@
+{
+  "name": "03-shortcuts",
+  "version": "1.0.0",
+  "description": "shortcut demo",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "keywords": [
+    "shortcut"
+  ],
+  "author": "CC",
+  "license": "MIT"
+}
